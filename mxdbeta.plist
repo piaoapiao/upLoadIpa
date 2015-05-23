@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http//192.168.2.114/appdown/appicon.png</string>
+                   <string>https://github.com/piaoapiao/upLoadIpa/blob/master/appicon.png</string>
 				</dict>
 				<dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://192.168.2.150/appdown/appicon.png</string>
+                   <string>https://github.com/piaoapiao/upLoadIpa/blob/master/appicon.png</string>
 				</dict>
            </array><key>metadata</key>
            <dict>
